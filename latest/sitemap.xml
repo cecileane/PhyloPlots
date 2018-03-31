@@ -4,7 +4,7 @@
     
     <url>
      <loc>/</loc>
-     <lastmod>2018-03-30</lastmod>
+     <lastmod>2018-03-31</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -13,13 +13,13 @@
         
     <url>
      <loc>/lib/public/</loc>
-     <lastmod>2018-03-30</lastmod>
+     <lastmod>2018-03-31</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>/lib/internals/</loc>
-     <lastmod>2018-03-30</lastmod>
+     <lastmod>2018-03-31</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
